@@ -1,0 +1,19 @@
+{
+  "name": "node-cli-drawings",
+  "version": "1.0.0",
+  "description": "Draw in canvas in node cli",
+  "main": "bin/index.js",
+  "scripts": {
+    "start": "node bin/index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prakash Choudhary",
+  "license": "ISC",
+  "bin": {
+    "hello": "./bin/index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^8.2.0"
+  }
+}
