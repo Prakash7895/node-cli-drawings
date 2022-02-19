@@ -1,3 +1,3 @@
 # node-cli-drawings
 
-Run 'npm start' in root folder
+Install dependencies using 'npm install', then run 'npm start' in root folder
